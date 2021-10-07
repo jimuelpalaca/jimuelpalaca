@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-##### Check out my website at [www.jimuelpala.ca](https://www.jimuelpala.ca), I built it using [Nextra](https://nextra.vercel.app/) 😉.
+##### Check out my website at [www.jimuelpala.ca](https://www.jimuelpala.ca), I built it using [Nextra](https://nextra.vercel.app/). 😉
 
 #### 📈 Github Stats
 
