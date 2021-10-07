@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**jimuelpalaca/jimuelpalaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 📈 Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![jimuelpalaca's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimuelpalaca&show_icons=true&theme=gruvbox&line_height=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimuelpalaca&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+#### 💻 Node.js Packages
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whitecloakph&repo=nestjs-passport-firebase&theme=gruvbox)](https://github.com/whitecloakph/nestjs-passport-firebase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jimuelpalaca&repo=str&theme=gruvbox&show_owner=true)](https://github.com/jimuelpalaca/str)
+
