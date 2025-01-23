@@ -5,9 +5,9 @@
 
 #### 📈 Github Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jimuelpalaca&show_icons=true&include_all_commits=true&theme=gruvbox&hide=issues,contribs&show=prs_merged,prs_merged_percentage" height="160" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gold-two.vercel.app/api?username=jimuelpalaca&show_icons=true&include_all_commits=true&theme=gruvbox" height="160" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=jimuelpalaca&show_icons=true&theme=gruvbox&layout=compact" height="160" />
+  <img align="center" src="https://github-readme-stats-gold-two.vercel.app/api/top-langs?username=jimuelpalaca&show_icons=true&theme=gruvbox&layout=compact" height="160" />
 </a>
 <br />
 
