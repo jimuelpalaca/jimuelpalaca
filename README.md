@@ -16,7 +16,6 @@
 <a href="https://www.npmjs.com/package/@jimuelpalaca/str" target="_blank"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jimuelpalaca&repo=str&theme=gruvbox&show_owner=true" /></a>
 
 #### 🧩 Hobbies
-I'm not good with my hobbies, but I love doing them. So don't judge me, let's just support each other. 😁 <br /><br />
 ♞ <a href="https://lichess.org/@/Pegpen" target="_blank">lichess@Pegpen</a> | 
 📷 <a href="https://www.eyeem.com/u/_jim" target="_blank">eyeem/u/_jim</a> |
 🎨 <a href="https://opensea.io/Pegpen" target="_blank">opensea/Pegpen</a>
