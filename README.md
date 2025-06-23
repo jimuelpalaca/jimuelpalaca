@@ -12,8 +12,8 @@
 <br />
 
 #### 💻 Node.js Packages
-<a href="https://www.npmjs.com/package/@whitecloak/nestjs-passport-firebase" target="_blank"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=whitecloakph&repo=nestjs-passport-firebase&theme=gruvbox" /></a>
-<a href="https://www.npmjs.com/package/@jimuelpalaca/str" target="_blank"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jimuelpalaca&repo=str&theme=gruvbox&show_owner=true" /></a>
+<a href="https://www.npmjs.com/package/@whitecloak/nestjs-passport-firebase" target="_blank"><img align="center" src="https://github-readme-stats-gold-two.vercel.app/api/pin/?username=whitecloakph&repo=nestjs-passport-firebase&theme=gruvbox" /></a>
+<a href="https://www.npmjs.com/package/@jimuelpalaca/str" target="_blank"><img align="center" src="https://github-readme-stats-gold-two.vercel.app/api/pin/?username=jimuelpalaca&repo=str&theme=gruvbox&show_owner=true" /></a>
 
 #### 🧩 Hobbies
 ♞ <a href="https://lichess.org/@/Pegpen" target="_blank">lichess@Pegpen</a> | 
